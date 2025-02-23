@@ -3,7 +3,7 @@
 This is a **Sentiment Analysis Web App** built with **Streamlit** and **Hugging Face Transformers**. It classifies text as **Positive, Negative, or Neutral** based on sentiment analysis.
 
 ## 🚀 Live Demo
-👉 **[Try the App Here](https://huggingface.co/spaces/YOUR-USERNAME/YOUR-SPACE-NAME)**
+👉 **[Try the App Here](https://huggingface.co/spaces/tabish18/sentiment-analysis-app)**
 
 ## 📂 Project Files
 - `app.py` → Main Streamlit app code
